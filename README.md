@@ -4,7 +4,10 @@ Big data, which includes vast datasets, is experiencing rapid expansion across v
 
 ## Syllabus
 1. Introduction
-2. 
+2. Rank/select dictionary
+3. Succinct tree
+4. Wavelet tree
+5. Applications of succinct data structures
 
 
 ## Prerequisites
